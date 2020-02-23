@@ -1,10 +1,6 @@
-<center>
-
-
-![](R-graphic.png)
-
-
-</center>
+<p align="center">
+  <img width="460" src="R-graphic.png">
+</p>
 
 * * *
 
