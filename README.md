@@ -1,10 +1,16 @@
-![R Film Series](R-graphic.png)
+<center>
 
-# R Film Series 2020
+
+![](R-graphic.png)
+
+
+</center>
+
+* * *
 
 Please join Tuesday from 12 - 1 pm this spring for screenings of excellent talks from the recent [Rstudio::conf](https://rstudio.com/conference/). We'll be meeting in **Physics 123**. Many/most of these talks have useful gems even to folks with only limited exposure to programming and R.
 
-Come for the talks, stay for the follow-up conversation (and free pizza).
+Come for the talks, stay for the follow-up conversation (and free pizza)!
 
 * * *
 
