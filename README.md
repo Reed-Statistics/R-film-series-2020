@@ -23,7 +23,7 @@ Come for the talks, stay for the follow-up conversation (and free pizza).
 #### Data Visualization - March 17th
 [Effective Visualizations](https://resources.rstudio.com/rstudio-conf-2020/effective-visualizations-miriah-meyer) - Miriah Meyer
 
-[3D ggplots with rayshader](https://resources.rstudio.com/rstudio-conf-2020/3d-ggplots-with-rayshader-dr-tyler-morgan-wall) - Dr. Tyler Morgan-Wall
+[Glamour of Graphics](https://resources.rstudio.com/rstudio-conf-2020/the-glamour-of-graphics-william-chase) - Will Chase
 
 * * *
 
@@ -45,4 +45,3 @@ Come for the talks, stay for the follow-up conversation (and free pizza).
 [Of Teacup Giraffes and RMarkdown](https://resources.rstudio.com/rstudio-conf-2020/of-teacups-giraffes-and-r-markdown-desiree-de-leon) - Desirée De Leon
 
 [RMarkdown Driven Development](https://resources.rstudio.com/rstudio-conf-2020/rmarkdown-driven-development-emily-riederer) - Emily Reiderer 
-
