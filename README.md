@@ -13,11 +13,7 @@ Come for the talks, stay for the follow-up conversation (and free pizza)!
 #### Community Work in Data Science - March 3rd
 [Data science education as an economic and public health intervention in East Baltimore](https://resources.rstudio.com/rstudio-conf-2020/data-science-education-as-an-economic-and-public-health-intervention-in-east-baltimore-jeff-leek) - Jeff Leek  
 
-*In what ways can Reedies get involved in data science for social good? How could the new stats/data science club be in a unique position to contribute?*
-
 [The development of "datos" package for the R4DS Spanish translation](https://resources.rstudio.com/rstudio-conf-2020/the-development-of-datos-package-for-the-r4ds-spanish-translation-riva-quiroga-2?prevItm=0&prevCol=6275649&ts=58869) - Riva Quiroga
-
-*Riza Quiroga mentioned several unique challenges that came up in the effort to translate R4DS to Spanish. Which were surprising to you? What are you still curious about?*
 
 * * *
 
