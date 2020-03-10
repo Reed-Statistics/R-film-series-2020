@@ -34,7 +34,7 @@ find_max("setosa", "Sepal.Length")
 #>        "7.9"
 ```
 
-This next line errors out, though… you might already know why, but try using browser() to track down the error.
+This next line errors out, though… you might already know why, but try using `traceback()`, `options(error = recover)`, and `browser()` to get a sense for how the different debugging functions work and track down the error.
 
 ``` r
 find_max("setosa", "Sepal.Length") - find_max("versicolor", "Sepal.Length")
