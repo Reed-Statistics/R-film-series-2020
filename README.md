@@ -20,6 +20,36 @@ Come for the talks, stay for the follow-up conversation (and free pizza)!
 #### Debugging - March 10th
 [Object of type ‘closure’ is not subsettable](https://resources.rstudio.com/rstudio-conf-2020/object-of-type-closure-is-not-subsettable-jenny-bryan) - Jenny Bryan
 
+Let's try to work through some other common errors using Jenny's techniques. This function can be used to explore the `iris` dataset.
+
+``` r
+find_max <- function(x,y){
+  temp <- subset(iris, Species = x)
+  temp2 <- apply(temp, 2, max)
+  temp2[y]
+}
+
+find_max("setosa", "Sepal.Length")
+#> Sepal.Length 
+#>        "7.9"
+```
+
+This next line errors out, though… you might already know why, but try using browser() to track down the error.
+
+``` r
+find_max("setosa", "Sepal.Length") - find_max("versicolor", "Sepal.Length")
+#> Error in find_max("setosa", "Sepal.Length") - find_max("versicolor", "Sepal.Length"): non-numeric argument to binary operator
+```
+
+How about this one?
+
+``` r
+find_max("setosa", list(1, 2))
+#> Error in temp2[y]: invalid subscript type 'list'
+```
+
+<sup>Created on 2020-03-10 by the [reprex package](https://reprex.tidyverse.org) (v0.3.0.9001)</sup>
+
 * * *
 
 #### Data Visualization - March 17th
