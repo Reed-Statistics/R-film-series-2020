@@ -1,3 +1,5 @@
+#### **Note (March 13th): We have decided to cancel the remaining R Film Series sessions out of an abundance of caution related to the coronavirus (COVID-19). However, we still encourage checking out the remaining talks!**
+
 <p align="center">
   <img width="460" src="R-graphic.png">
 </p>
@@ -52,7 +54,7 @@ find_max("setosa", list(1, 2))
 
 * * *
 
-#### Data Visualization - March 17th
+#### ~~Data Visualization - March 17th~~
 [Effective Visualizations](https://resources.rstudio.com/rstudio-conf-2020/effective-visualizations-miriah-meyer) - Miriah Meyer
 
 [Glamour of Graphics](https://resources.rstudio.com/rstudio-conf-2020/the-glamour-of-graphics-william-chase) - Will Chase
@@ -63,17 +65,17 @@ find_max("setosa", list(1, 2))
 
 * * *
 
-#### Visualizing Equitable AI - March 31st
+#### ~~Visualizing Equitable AI - March 31st~~
 [Data, visualization, and designing AI](https://resources.rstudio.com/rstudio-conf-2020/data-visualization-and-designing-ai-fernanda-viegas-and-martin-wattenberg) - Fernanda Viegas \& Martin Wattenberg
 
 * * *
 
-#### Career Advice For Aspiring Data Scientists - April 7th
+#### ~~Career Advice For Aspiring Data Scientists - April 7th~~
 [Career Advice for Aspiring Data Scientists](https://resources.rstudio.com/rstudio-conf-2020/panel-career-advice-for-data-scientists-jen-hecht) - Gabriela de Queiroz, David Keyes, Sydeaka Watson, \& Jen Hecht 
 
 * * *
 
-#### Designing with RMarkdown - April 14th
+#### ~~Designing with RMarkdown - April 14th~~
 [Of Teacup Giraffes and RMarkdown](https://resources.rstudio.com/rstudio-conf-2020/of-teacups-giraffes-and-r-markdown-desiree-de-leon) - Desirée De Leon
 
 [RMarkdown Driven Development](https://resources.rstudio.com/rstudio-conf-2020/rmarkdown-driven-development-emily-riederer) - Emily Reiderer 
